@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     printf("안녕하세요, Git 병합 충돌 예제입니다.\n");
     printf("메인 브랜치에서 추가된 첫 번째 라인입니다.\n"); //Branch A에서 수정
+    printf("계속 계속 추가 합니당...\n"); //Branch A에서 수정
     printf("피처 브랜치에서 추가된 새로운 기능 라인입니다.\n");
 }
 
